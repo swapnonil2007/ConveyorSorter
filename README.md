@@ -1,7 +1,7 @@
 ### Automatic Sorter - Swapnonil Nath, ProDex
 Arduino IoT Task - 1 for prodex - automatic sorting of objects according to their lengths.
 
-[Tinkercad linke](https://www.tinkercad.com/things/dLmWDpRvVzL-automaticsorting/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=dFfdhpAZcHBMQbaDGehInQypaxDW2pRzHc2xJkSojiE)
+[Tinkercad link](https://www.tinkercad.com/things/dLmWDpRvVzL-automaticsorting/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=dFfdhpAZcHBMQbaDGehInQypaxDW2pRzHc2xJkSojiE)
 
 I have used a mechanism where a conveyor belt is constantly run at a constant slow speed by a DC motor. A ping ultrasonic sensor detetcs if an object appears in front of it on the belt and measures for how much time it is appearing. With the time and the speed of the conveyor belt (to be calibrated in real life), it calculates the length of the object.
 
